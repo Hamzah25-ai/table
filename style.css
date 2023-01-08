@@ -32,6 +32,6 @@ h1 {
   color: rgb(88, 83, 83);
 }
 tr:hover {
-  transform: scale(0.9);
+  transform: scale(1.007);
   cursor: pointer;
 }
